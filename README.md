@@ -24,7 +24,6 @@
 
 ### Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadkabobby&show_icons=true&locale=en" alt="khadkabobby" /></p>
-<br/>
 
 ### Top Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadkabobby&show_icons=true&locale=en&layout=compact" alt="khadkabobby" /></p>
