@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, React, Nodejs, ExpressJs, MongoDb.
 - 💞️ I’m looking to collaborate on web development task.
 ### How to reach me:
--       khadkabobby916@gmail.com   
+-       babikhadka39@gmail.com   
 -       babikhadka.com.np
 
 ### Connect with me:
